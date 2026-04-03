@@ -1,12 +1,3 @@
----
-title: "Projet : Introduction à Markdown"
-subtitle: "TD 1 — Atelier informatique"
-author: "Billy Rolph Exumé"
-date: "Avril 2026"
----
-
-
-
 <div style="text-align: center;">
   <img src="https://i.postimg.cc/FdKW37fL/image.jpg"
        style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; border: 3px solid #6EE7F7;" />
